@@ -44,3 +44,7 @@ footer {
   flex-basis: 100px;
   flex-grow: 1;
 }
+
+#box-1 {
+  flex-shrink: 3;
+}
