@@ -31,11 +31,12 @@ footer {
   display: flex;
   width: 100vw;
   height: 100vh;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .item {
   flex-basis: 100%;
+  width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
 }
